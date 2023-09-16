@@ -1,0 +1,35 @@
+*{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1D5D9B;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1{
+    font-family:papyrus ;
+    padding-bottom: 1rem;
+}
+#movie-details-content{
+    font-family:papyrus ;
+    padding-bottom: 1rem;
+    color: azure;
+
+}
+a{
+    padding-top: 20px;
+    border: 2px solid #1D5D9B;
+    height: 30px;
+    color: #1D5D9B;
+    text-decoration: none;
+    padding: .7rem;
+    border-radius: 20px;
+    background-color: #F4D160;
+}
